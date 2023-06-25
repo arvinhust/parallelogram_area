@@ -1,0 +1,6 @@
+clear all
+clc
+base=10;
+height=5;
+newarea=base*height;
+newarea
